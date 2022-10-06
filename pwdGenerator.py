@@ -23,5 +23,5 @@ def passwordGenerator(pwd_length):
                 sum(char in digits for char in pwd) >= 2):
             break
     print('----------------------------------')
-    print(pwd)
+    return pwd
 
