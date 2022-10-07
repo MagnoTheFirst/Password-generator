@@ -1,11 +1,5 @@
 --------------------- Passwords ---------------------
-{
- 		magno,
- 		,
- 		magno.maximo@test.ch,
- 		`O)w-5mGY6/Z<F$_x!W\,
- 		test,
- 		,
- 		,
- 		
-}
+
+{"username": "magno", "email": "magno.maximo@test.ch", "pwd": "]#'p6X&^?!UzFrt/&i9s", "comment": "test", "url": "", "note": ""}
+
+{"username": "tester", "email": "tester.testing@test.ch", "pwd": "YHwyyTQV#1MlQjf*tK2@", "comment": "hi", "url": "", "note": ""}
